@@ -1,6 +1,6 @@
 import time
 
-currentTime = time.time()
+currentTime = time.time()                    #'''epoch time'''
 print("Current Time: ", currentTime)
 
 seconds = int(currentTime)
